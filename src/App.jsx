@@ -97,7 +97,7 @@ function App() {
               </div>
             </div>
             <div className="hero-visual">
-              <img src="/hero-devices.jpg" alt="NEDOPULSE website displayed on a laptop and phone" />
+              <img src="/hero-devices.png" alt="NEDOPULSE website displayed on a laptop and phone" />
               <div className="hero-badge"><b>ϟ</b><span><strong>Modern Digital Solutions</strong><small>Built for growth</small></span></div>
             </div>
           </div>
